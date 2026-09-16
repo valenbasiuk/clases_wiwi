@@ -1,0 +1,26 @@
+{
+  "name": "clases_wiwi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valenbasiuk/clases_wiwi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/valenbasiuk/clases_wiwi/issues"
+  },
+  "homepage": "https://github.com/valenbasiuk/clases_wiwi#readme",
+  "devDependencies": {
+    "@types/node": "^22.20.3",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.1"
+  }
+}
